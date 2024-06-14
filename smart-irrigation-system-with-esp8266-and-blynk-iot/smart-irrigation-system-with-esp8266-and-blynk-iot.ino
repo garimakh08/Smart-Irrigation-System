@@ -12,8 +12,8 @@
 #define PUMP_SWITCH V6  // Virtual pin for controlling the pump manually
 #include <DHT.h>
 char auth[] = BLYNK_AUTH_TOKEN;  // Replace with your Blynk auth token
-char ssid[] = "tarun";   // Replace with your WiFi credentials
-char pass[] = "tarunnmittal";
+char ssid[] = "garima";   // Replace with your WiFi credentials
+char pass[] = garimakhatri";
 
 BlynkTimer timer;
 
